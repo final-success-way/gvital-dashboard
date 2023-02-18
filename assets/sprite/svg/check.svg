@@ -1,0 +1,7 @@
+<svg id="check" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <g id="Group_376" data-name="Group 376">
+    <circle id="Ellipse_54" data-name="Ellipse 54" cx="11.993" cy="11.993" r="11.993" transform="translate(1.007 1.007)" fill="#4cbab6"/>
+    <path id="Path_762" data-name="Path 762" d="M13,26A13,13,0,1,1,26,13,13.015,13.015,0,0,1,13,26ZM13,2.014A10.986,10.986,0,1,0,23.986,13,11,11,0,0,0,13,2.014Z" fill="#4cbab6"/>
+  </g>
+  <path id="Path_763" data-name="Path 763" d="M136.789,171.39a1.006,1.006,0,0,1-.718-.3l-3.716-3.776a1.007,1.007,0,1,1,1.436-1.412l2.969,3.017,6.142-6.764a1.007,1.007,0,1,1,1.49,1.354l-6.857,7.552a1.007,1.007,0,0,1-.725.33Z" transform="translate(-125.36 -153.607)" fill="#fff"/>
+</svg>
